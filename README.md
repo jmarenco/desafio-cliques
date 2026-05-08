@@ -1,0 +1,1 @@
+Cada archivo representa un grafo. El primer número que acompaña al nombre del archivo es la cantidad de vértices (entre 15 y 1000 vértices). Cada línea de cada archivo representa una arista, dando los números de los dos extremos de la arista. Los números de los vértices comienzan en 1.
